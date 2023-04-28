@@ -10,7 +10,7 @@ const script = "document.querySelectorAll('#page-wrapper > div > div > div > for
 
 const LDAP = process.env.LDAP
 const LDAP_PASSWORD = process.env.LDAP_PASSWORD
-console.log(LDAP, LDAP_PASSWORD)
+
 
 async function openWebsite(url: string) {
     const chromeCapabilities = Capabilities.chrome();
