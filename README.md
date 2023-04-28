@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-A brief description of the project.
+Automating the process of filling the feedback form on the erp
 
 ## Table of Contents
 
